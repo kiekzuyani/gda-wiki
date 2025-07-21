@@ -1,9 +1,9 @@
-# Boas vindas à wiki de tudo relacionado ao GDA (Grupo de Autoajuda), Okd (Okaida), ImJustAGirl, CGM (Crossfire Ghost Mode) e Et Engrasado Memoria Ram
+# Wiki - GDA (Grupo de Autoajuda), Okd (Okaida), ImJustAGirl, CGM (Crossfire Ghost Mode) e Et Engrasado Memoria Ram
 
-**[GDA](#)**, **[Okd](#)**, **[ImJustAGirl](#)**, **[CGM](#)** e **[Et Engrasado Memoria Ram](#)** são grupos de amigos.
+**[GDA](#)**, **[Okd](#)**, **[ImJustAGirl](#)**, **[CGM](#)** e **[Et Engrasado Memoria Ram](#)** são e/ou foram grupos de amigos.
 
 > [!NOTE]
-> Há links que não redirecionam para nenhuma página, pois a respectiva página dedicada ainda não foi feita (mas será).
+> Há links que não redirecionam para nenhuma página, pois a respectiva página dedicada ainda não foi feita (mas será. algum dia. eu acho. (não será)).
 
 ## Conteúdo
 
@@ -11,19 +11,23 @@
     - [Membros atuais do grupo](#membros-atuais-do-grupo)
     - [Ex-membros do grupo](#ex-membros-do-grupo)
 
+
 - [Incidents e acontecimentos marcantes](#incidents-e-acontecimentos-marcantes)
-    - [Incidents - O começo de tudo](#incidents---o-começo-de-tudo)
-    - [Acontecimentos marcantes - O começo de tudo](#acontecimentos-marcantes---o-começo-de-tudo)
-    - [Incidents - Alla e Nardo: bootcamp, cheats, racing e mice pirata](#)
-    - [Acontecimentos marcantes - Alla e Nardo: bootcamp, cheats, racing e mice pirata](#acontecimentos-marcantes---alla-e-nardo-bootcamp-cheats-racing-e-mice-pirata)
-    - [Incidents - Okd](#incidents---okd)
-    - [Acontecimentos marcantes - Okd](#acontecimentos-marcantes---okd)
-    - [Incidents - GDA](#incidents---gda)
-    - [Acontecimentos marcantes - GDA](#acontecimentos-marcantes---gda)
-    - [Incidents - CGM](#incidents---cgm)
-    - [Acontecimentos marcantes - CGM](#)
-    - [Incidents - Et Engrasado Memoria Ram](#incidents---et-engrasado-memoria-ram)
-    - [Acontecimentos marcantes - Et Engrasado Memoria Ram](#)
+    - [O começo de tudo - Incidents](#o-começo-de-tudo---incidents)
+    - [O começo de tudo - Acontecimentos marcantes](#o-começo-de-tudo---acontecimentos-marcantes)
+    - [Alla e Nardo: bootcamp, cheats, racing e mice pirata - Incidents](#)
+    - [Alla e Nardo: bootcamp, cheats, racing e mice pirata - Acontecimentos marcantes](#alla-e-nardo-bootcamp-cheats-racing-e-mice-pirata---acontecimentos-marcantes) 
+    - [Okd - Incidents](#okd---incidents)
+    - [Okd - Acontecimentos marcantes](#okd---acontecimentos-marcantes)
+    - [GDA - Incidents](#gda---incidents)
+    - [GDA - Acontecimentos marcantes](#gda---acontecimentos-marcantes)
+    - [ImJustAGirl - Incidents](#)
+    - [ImJustAGirl - Acontecimentos marcantes](#imjustagirl---acontecimentos-marcantes)
+    - [CGM - Incidents](#cgm---incidents)
+    - [CGM - Acontecimentos marcantes](#cgm---acontecimentos-marcantes)
+    - [Et Engrasado Memoria Ram - Incidents](#et-engrasado-memoria-ram---incidents)
+    - [Et Engrasado Memoria Ram - Acontecimentos marcantes](#et-engrasado-memoria-ram---acontecimentos-marcantes)
+
 
 - [Lore](#lore)
     - [Lore - O começo de tudo (2012-2017)](#)
@@ -146,18 +150,18 @@
 - [Washington](#)
 (A.K.A wash)
 
-[Voltar ao inicío da página](#boas-vindas-à-wiki-de-tudo-relacionado-ao-gda-grupo-de-autoajuda-okd-okaida-imjustagirl-cgm-crossfire-ghost-mode-e-et-engrasado-memoria-ram)
+[Voltar ao inicío da página](#wiki---gda-grupo-de-autoajuda-okd-okaida-imjustagirl-cgm-crossfire-ghost-mode-e-et-engrasado-memoria-ram)
 
 
 
 ## Incidents e acontecimentos marcantes
 
-### Incidents - O começo de tudo
+### O começo de tudo - Incidents
 
 - [Nardo vs aLp: apostas e o duelo prometido](#)
 - [Drei e a Capa de Fogo Solar: pro Nardo, somente o osso](#)
 
-### Acontecimentos marcantes - O começo de tudo
+### O começo de tudo - Acontecimentos marcantes
 
 - [Exército captura fugitivo aLp graças ao apoio aéreo do Delegado Jonas](#)
 - [Juao: Terrorismo e Guerra](#)
@@ -166,7 +170,7 @@
 - [Drei, Nardo e Nordeste: uma história Twisted Treeline](#)
 - [Drei, Nardo e Nordeste: Ceia Natalina em Summoner's Rift](#)
 
-### Acontecimentos marcantes - Alla e Nardo: bootcamp, cheats, racing e mice pirata
+### Alla e Nardo: bootcamp, cheats, racing e mice pirata - Acontecimentos marcantes
 
 - [Iamtheflexi e xColey: lendas do bootcamp](#)
 - [A era de Ultron: speed, fly, tp, e tudo que temos direito - Uma história Cheat Engine](#)
@@ -176,20 +180,21 @@
 - [Nardo's Sidequest: A arte de enganar velhos](#)
 - [Alla's Most Hidden Secret: Yaoi e Yuri Facebook Group](#)
 
-### Incidents - Okd
+### Okd - Incidents
 
 - [Neito e Lipe: neito talarico](#)
 - [Alla descobre que o Neito é fake](#)
 - [Okd, Phi e Frogui: Nardo, o (meio) injustiçado](#)
 
-### Acontecimentos marcantes - Okd
-
+### Okd - Acontecimentos marcantes 
+ 
 - [Nardo e Allan adotam o vocabulário Okaidiano: raça da mzr](#)
 - [Kanbushi o foda: O arco](#)
+- [O Neito pode ser um pouco duro às vezes...](#)
 - [Neito, Freud, e o Manual do FBI](#)
 - [The Glow Up: estrelando Breno](#)
 
-### Incidents - GDA
+### GDA - Incidents
 
 - [Otas vs. Alla - Rage Arc](#)
 - [444 Incident: anjos e demônios](#)
@@ -197,20 +202,26 @@
 - [Diabla Incident: Alla's biggest L e o spam infinito](#)
 - [Facada Incident: Alla britânico vs. Juao Stark](#)
 - [Alla's Crashout: Uma história Star Wars](#)
-- [Bordinha Marrom Incident: clima pesado entre os brothers](#)
+- [Bordinha Marrom Incident: o bicho pegou](#)
 - [O Pequeno Príncipe Incident: Nardo saiu](#)
+- [Kimí Incident](#)
 - [O Incidente - Juao joins Akatsuki: xitersad, opps e o multiverso do GDA](#)
 - [O aniversário de Fefe: jamais crie expectativas](#)
-- [Nardo Incident: Nardo's crashout e o mal pela raíz](#)
+- [Nardo Incident: Nardo's biggest crashout e o mal pela raíz](#)
 
-### Acontecimentos marcantes - GDA
+### GDA - Acontecimentos marcantes
 
 - [Juao's Blackface: a Cyber Hunter Saga](#)
 - [The Ludo Experience](#)
 - [The Possum Experience](#)
 - [Nardo's Sexo Teórico phD thesis](#)
 - [E eu me APAIXONEI](#)
+- [MegLuuh e os sete Allukems: never give up](#)
+- [orelhas marpit](#)
+- [Devour Saga: bg betinha se borrou](#)
+- [Phasmophobia Saga](#)
 - [Nardo goes insane: o dossiê](#)
+- [Otas e Nardo se aventuram no VRChat: filthy rats](#)
 - [Another common Nardo L: irmão wingman](#)
 - [Alicio Arc](#)
 - [oreia gf co crow vulgo leo](#)
@@ -224,22 +235,38 @@
 - [Oreia's Smoke Ninja Defuse](#)
 - [Oreia Utilitários: aula de molotov na Mirage](#)
 - [A não muito longa experiência de Otávio no GTA RP: tragédia e redenção](#)
+- [Juao: uma história Sekiro](#)
+- [Tá com medinho, Alã? - PT](#)
+- [Juao, Amnesia, e o alt F4](#)
 - [Cineminha feat. 3, Pernas, Rato e Mãos de Lemure](#)
 - [RIP Monitor: average League of Legends experience](#)
 - [Jonville de cara nova: uma história Alã (fuck paripe)](#)
 - [Cenora: nos braços de Deus](#)
+- [Alãn: uma história Twitch](#)
 - [Seashorekicks Saga: O branquinho nerd](#)
 - [São Paulo de cara nova: uma história Alã, parte 2 feat. Borges](#)
 
-### Incidents - CGM
+### ImJustAGirl - Acontecimentos marcantes
+
+- [O primeiro x5: spike e a confusão de Pedrinho](#)
+
+### CGM - Incidents
 
 - [Cabra: Dossiê e The Crown Incident](#)
 
-### Incidents - Et Engrasado Memoria Ram
+### CGM - Acontecimentos Marcantes
+
+- [A ponte: Amogus](#)
+
+### Et Engrasado Memoria Ram - Incidents
 
 - [Mártir: Cabra e o dia do julgamento final](#)
+- [Assalto ao Banco Central: diamantes e Minecraft](#)
 
+### Et Engrasado Memoria Ram - Acontecimentos marcantes
 
+- [memória ram](#)
+- [Eu sou hater da Razer](#)
 
 ## Lore
 
@@ -291,4 +318,4 @@ Com essa junção, [Alla](#) conheceu e introduziu um novo membro ao grupo do Wh
 > Página em construção. <br>
 > Última atualização: 18/07/2025
 
-[Voltar ao inicío da página](#boas-vindas-à-wiki-de-tudo-relacionado-ao-gda-grupo-de-autoajuda-okd-okaida-imjustagirl-cgm-crossfire-ghost-mode-e-et-engrasado-memoria-ram)
+[Voltar ao inicío da página](#wiki---gda-grupo-de-autoajuda-okd-okaida-imjustagirl-cgm-crossfire-ghost-mode-e-et-engrasado-memoria-ram)
