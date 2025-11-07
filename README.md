@@ -1,15 +1,18 @@
-# Wiki - GDA (Grupo de Autoajuda), Okd (Okaida), ImJustAGirl, CGM (Crossfire Ghost Mode) e Et Engrasado Memoria Ram
+# Wiki - GDA (Grupo de Autoajuda), Okd (Okaida), ImJustAGirl, CGM (Crossfire Ghost Mode), Et Engrasado Memoria Ram, e OCC
 
-**[GDA](#)**, **[Okd](#)**, **[ImJustAGirl](#)**, **[CGM](#)** e **[Et Engrasado Memoria Ram](#)** são e/ou foram grupos de amigos.
+**[GDA](#)**, **[Okd](#)**, **[ImJustAGirl](#)**, **[CGM](#)** e **[Et Engrasado Memoria Ram](#)** são e/ou foram grupos de amigos. **[OCC]** é um clã originado no jogo Crossfire, que hoje em dia estende-se para outros jogos.
 
 > [!NOTE]
 > Há links que não redirecionam para nenhuma página, pois a respectiva página dedicada ainda não foi feita (mas será. algum dia. eu acho. (não será)).
 
 ## Conteúdo
 
-- [Membros do grupo](#membros-do-grupo)
-    - [Membros atuais do grupo](#membros-atuais-do-grupo)
-    - [Ex-membros do grupo](#ex-membros-do-grupo)
+- [Membros do GDA](#membros-do-gda)
+    - [Membros atuais do GDA](#membros-atuais-do-gda)
+    - [Ex-membros do GDA](#ex-membros-do-gda)
+- [Membros da OCC](#membros-da-occ)
+    - [Membros atuais da OCC](#membros-atuais-da-occ)
+    - [Ex-membros da OCC](#ex-membros-da-occ)
 
 
 - [Incidents e acontecimentos marcantes](#incidents-e-acontecimentos-marcantes)
@@ -65,52 +68,47 @@
 (A.K.A drei, andré, gonsa, gonssalves, rato, ratoncio, goncalves)
 
 - [Alan](#)
-(A.K.A ala, alla, alã, alãn, orelhas, oreia, oreiudo, ears, ouvido, bahia, paripe, zhiend, zhiendoka, [Lucas Martins](#), xColey, xafrontador, [DJ...Alanzinho](#), [yasuo calvo](#))
+(A.K.A ala, alla, allan, alã, alãn, orelhas, oreia, oreiudo, ears, ouvido, bahia, paripe, zhiend, zhiendoka, [Lucas Martins](#), xColey, xafrontador, [DJ...Alanzinho](#), [yasuo calvo](#), [Filho do Olavo Martins](https://x.com/olavomartinsjew))
 
 - [Bruno](#)
-(A.K.A braços, basos, brassos, [maragato](#), [fail](#), aykko)
-
-- [Davi](#)
-(A.K.A Bolks)
+(A.K.A braços, basos, brassos, [maragato](#), [fail](#), aykko, a1mkeyy)
 
 - [Demerson](#)
 (A.K.A bg, derso, dreso, 3, demerson borges, borges, barroso, sou fofa ne, dragay)
 
-- [Gabriel C.](#)
-(A.K.A [beisinho, beicinho](#))
-
 - [Gabriel D.](#)
-(A.K.A ck3, fortniter)
+(A.K.A ck3, fortniter, spaceglider, Homem Pinpoint, Homem Fortnite)
 
-- [Guilherme](#)
-(A.K.A GZU, pedaço de carne do alla, [Gzu Tsé-Tsung, Gzúlio Vargas, Gzu Jong Un](#))
+- [Igor](#)
+(A.K.A medeiros, madera)
 
 - [João](#)
-(A.K.A juao, jonas, sosa, [The Truth](#), jvz, joao vitor zika, pernas, perninhas pjl, jooj)
+(A.K.A juao, jonas, sosa, [The Truth, La Verdad](#), jvz, joao vitor zika, pernas, perninhas pjl, jooj, [bilusao, Bilusão D Massa](#))
 
 - [Leonardo B.](#)
-(A.K.A nardo, leo, borba, crow, cr0wn3d, [Kanbushi o foda](#), Aluxsie, Allukem, Iamtheflexi, [expectus patronum](#), static, kiek, femboy, [chimangos, chumangos](#), [jon snow](#), diborba, [chokito, acne boy, espinhas](#))
-
-- [Luiz H.](#)
-(A.K.A Flyn, Luflyn) 
+(A.K.A nardo, leo, borba, crow, cr0wn3d, [Kanbushi o foda](#), Aluxsie, Allukem, Iamtheflexi, [expectus patronum](#), static, kiekzuyani, kiek, femboy, [chimangos, chumangos](#), [jon snow](#), diborba, [chokito, acne boy, espinhas](#))
 
 - [Neto](#)
+(A.K.A Netin)
 
 - [Otávio](#)
-(A.K.A otas, ota, otota, estrellas, [444angel](#), [branquinho nerd](#), [mãos de lemure](#))
+(A.K.A otas, ota, otota, estrellas, [444angel](#), [branquinho nerd](#), [mãos de lemure](#), ostra, ostras, ostravio, guto, gutin, depression, paris333, [chicharito](#))
+
+- [P. Guilherme](#)
+(A.K.A GZU, [pedaço de carne do alla](#), [Gzu Tsé-Tsung, Gzúlio Vargas, Gzu Jong Un](#), Gzusky, GZU DO RODO)
 
 - [Pedro](#)
 (A.K.A pedrinho, pedrin)
 
 - [Ruan](#)
 
-- [Yohan](#)
-(A.K.A [Cabra](#), yo, yoyo, Hannie)
-
-### Ex-membros do grupo
+### Ex-membros do GDA
 
 - [Breno](#)
 (A.K.A breno666diabo, veyronguzman)
+
+- [Davi](#)
+(A.K.A Bolks, smurf do Cabra)
 
 - [Dienifer](#)
 (A.K.A fefe, dieni)
@@ -124,8 +122,8 @@
 - [Felipe P.](#)
 (A.K.A pons, [pons 2](#))
 
-- [Igor](#)
-(A.K.A medeiros)
+- [Gabriel C.](#)
+(A.K.A [beisinho, beicinho](#))
 
 - [Kaleb](#)
 (A.K.A leleb, [padrinhosmagicos_22](#))
@@ -138,6 +136,9 @@
 
 - [Luiz ?.](#)
 (A.K.A lulu, based, montecristo)
+
+- [Luiz H.](#)
+(A.K.A Flyn, Luflyn, Judas)
 
 - [Marcos](#)
 (A.K.A marquinhos)
@@ -153,6 +154,50 @@
 
 - [Washington](#)
 (A.K.A wash)
+
+- [Yohan](#)
+(A.K.A [Cabra](#), yo, yoyo, Hannie, [bode](#))
+
+
+
+## Membros da OCC
+
+### Membros atuais da OCC
+
+- [Aderaldo](#)
+(A.K.A shaka, XEREVDESKY)
+
+- [Carlos](#)
+(A.K.A newhero)
+
+- [Davi](#)
+(A.K.A Bolks, smurf do Cabra)
+
+- [Gabriel B.](#)
+(A.K.A DOM1NUS, dominó)
+
+- [Gabriel D.](#)
+(A.K.A ck3, fortniter, spaceglider, Homem Pinpoint, Homem Fortnite)
+
+- [P. Guilherme](#)
+(A.K.A GZU, [pedaço de carne do alla](#), [Gzu Tsé-Tsung, Gzúlio Vargas, Gzu Jong Un](#), Gzusky, GZU DO RODO)
+
+- [Yohan](#)
+(A.K.A [Cabra](#), yo, yoyo, Hannie, [bode](#))
+
+### Ex-membros da OCC
+
+- [Izaquiel](#)
+(A.K.A ?)
+
+- [?](#)
+(A.K.A Conflitos, confripau)
+
+- [?](#)
+(A.K.A R7.K4dEIr4)
+
+- [Luiz H.](#)
+(A.K.A Flyn, Luflyn, Judas)
 
 [Voltar ao inicío da página](#wiki---gda-grupo-de-autoajuda-okd-okaida-imjustagirl-cgm-crossfire-ghost-mode-e-et-engrasado-memoria-ram)
 
@@ -249,9 +294,15 @@
 - [Alãn: uma história Twitch](#)
 - [Seashorekicks Saga: O branquinho nerd](#)
 - [São Paulo de cara nova: uma história Alã, parte 2 feat. Borges](#)
+- [Olavo Martins: Lucas Martins Conhece Seu Pai](#)
 - [O cone da Herta](#)
 - [GDA's Clash Royale Arc](#)
+- [GDA's Clash Royale Clan](#)
+- [Tirei os Servos](#)
+- [Dos 500 aos 6000 em uma noite: gemas e crédito estourado](#)
 - [GDA's 1st Clash Royale Tournament](#)
+- [The Lirio Situation](#)
+- [bem vindo ao cla bilusao](#)
 
 ### ImJustAGirl - Acontecimentos marcantes
 
@@ -274,6 +325,7 @@
 
 - [memória ram](#)
 - [Eu sou hater da Razer](#)
+- [The Mimi Experience](#)
 
 ### OCC - Incidents
 
@@ -286,6 +338,8 @@
 - [Rapaziada, boa noite!](#)
 - [The R7.K4dEIr4 Experience](#)
 - [Uma Nova Era: Things Got Serious!](#)
+
+
 
 ## Lore
 
