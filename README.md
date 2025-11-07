@@ -3,7 +3,7 @@
 **[GDA](#)**, **[Okd](#)**, **[ImJustAGirl](#)**, **[CGM](#)** e **[Et Engrasado Memoria Ram](#)** são e/ou foram grupos de amigos. **[OCC](#)** é um clã originado no jogo Crossfire, que hoje em dia estende-se para outros jogos.
 
 > [!NOTE]
-> Há links que não redirecionam para nenhuma página, pois a respectiva página dedicada ainda não foi feita (mas será. algum dia. eu acho. (não será)).
+> Praticamente todos os links não redirecionam para a mesma página, pois a respectiva página dedicada ainda não foi feita (mas será. algum dia. eu acho. (não será)). É recomendado que não clique nos links por enquanto, pois eles ficam redirecionando para o topo do documento.
 
 ## Conteúdo
 
@@ -108,7 +108,7 @@
 (A.K.A breno666diabo, veyronguzman)
 
 - [Davi](#)
-(A.K.A Bolks, smurf do Cabra)
+(A.K.A Bolks, smurf do cabra, cabra pp)
 
 - [Dienifer](#)
 (A.K.A fefe, dieni)
@@ -156,7 +156,7 @@
 (A.K.A wash)
 
 - [Yohan](#)
-(A.K.A [Cabra](#), yo, yoyo, Hannie, [bode](#))
+(A.K.A [Cabra](#), yo, yoyo, Hannie, [bode](#), dominador)
 
 
 
@@ -171,7 +171,7 @@
 (A.K.A newhero)
 
 - [Davi](#)
-(A.K.A Bolks, smurf do Cabra)
+(A.K.A Bolks, smurf do cabra, cabra pp)
 
 - [Gabriel B.](#)
 (A.K.A DOM1NUS, dominó)
@@ -186,7 +186,7 @@
 (A.K.A GZU, [pedaço de carne do alla](#), [Gzu Tsé-Tsung, Gzúlio Vargas, Gzu Jong Un](#), Gzusky, GZU DO RODO)
 
 - [Yohan](#)
-(A.K.A [Cabra](#), yo, yoyo, Hannie, [bode](#))
+(A.K.A [Cabra](#), yo, yoyo, Hannie, [bode](#), dominador)
 
 ### Ex-membros da OCC
 
@@ -334,12 +334,12 @@
 
 - [Bolks Neymar](#)
 - [Flyn Judas](#)
+- [The R7.K4dEIr4 Experience](#)
 
 ### OCC - Acontecimentos marcantes
 
 - [The Tragedy: O Campeonato](#)
 - [Rapaziada, boa noite!](#)
-- [The R7.K4dEIr4 Experience](#)
 - [Uma Nova Era: Things Got Serious!](#)
 
 
