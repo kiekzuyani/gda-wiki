@@ -27,6 +27,8 @@
     - [CGM - Acontecimentos marcantes](#cgm---acontecimentos-marcantes)
     - [Et Engrasado Memoria Ram - Incidents](#et-engrasado-memoria-ram---incidents)
     - [Et Engrasado Memoria Ram - Acontecimentos marcantes](#et-engrasado-memoria-ram---acontecimentos-marcantes)
+    - [OCC - Incidents](#occ---incidents)
+    - [OCC - Acontecimentos marcantes](#occ---acontecimentos-marcantes)
 
 
 - [Lore](#lore)
@@ -47,12 +49,14 @@
     - [Lore - ImJustAGirl](#)
     - [Lore - CGM: episódio 2](#)
     - [Lore - Et Engrasado Memoria Ram](#)
+    - [Lore - GDA: episódio 3 - Pós-Et Engrasado](#)
+    - [Lore - OCC: episódio 1 - The Dream Team](#)
+    - [Lore - OCC: episódio 2 - Pós-tragédia e Flyn Judas](#)
 
 
+## Membros do GDA
 
-## Membros do grupo
-
-### Membros atuais do grupo
+### Membros atuais do GDA
 
 - [Abner](#)
 (A.K.A Noronha)
@@ -245,6 +249,9 @@
 - [Alãn: uma história Twitch](#)
 - [Seashorekicks Saga: O branquinho nerd](#)
 - [São Paulo de cara nova: uma história Alã, parte 2 feat. Borges](#)
+- [O cone da Herta](#)
+- [GDA's Clash Royale Arc](#)
+- [GDA's 1st Clash Royale Tournament](#)
 
 ### ImJustAGirl - Acontecimentos marcantes
 
@@ -268,9 +275,22 @@
 - [memória ram](#)
 - [Eu sou hater da Razer](#)
 
+### OCC - Incidents
+
+- [Bolks Neymar](#)
+- [Flyn Judas](#)
+
+### OCC - Acontecimentos marcantes
+
+- [The Tragedy: O Campeonato](#)
+- [Rapaziada, boa noite!](#)
+- [The R7.K4dEIr4 Experience](#)
+- [Uma Nova Era: Things Got Serious!](#)
+
 ## Lore
 
 ### Lore - Alla e Nardo: bootcamp, cheats, racing e mice pirata (2017-2018)
+
 A história começa quando [Nardo](#) e [Alla](#) se conheceram jogando transformice, em meados de 2017. Os dois jogavam [bootcamp](#) juntos. Depois de um tempo, eles se tornaram bastante próximos e começaram a jogar servidores piratas de transformice. Em especial, o [nomedomice](#) – onde se tornaram jogadores de racing e competiam no [ranking de firsts do servidor](#). Além de jogar racing, os dois também farmavam first no modo de jogo [deathmatch](#), que neste servidor era bugado (porém foi arrumado posteriormente). Neste transformice pirata eles fizeram muitos amigos, sendo alguns deles: [Wash](#), [Pons](#), [Lipe](#), [Letícia](#), [Samz](#), [Mad](#), [Kaio](#), [Erick](#), [Phi](#), [Frogui](#) e, principalmente, entraram para o grupo [Okaida (Okd)](#) (que seria a futura ponte para a criação do [GDA](#)), onde conheceram [Neitan](#), [Breno](#), [entre outros](#).
 
 ### Lore - Okd: episódio 1 (2018-2019)
