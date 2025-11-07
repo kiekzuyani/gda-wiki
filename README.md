@@ -202,7 +202,7 @@
 - [Luiz H.](#)
 (A.K.A Flyn, Luflyn, Judas)
 
-[Voltar ao inicío da página](#wiki---gda-grupo-de-autoajuda-okd-okaida-imjustagirl-cgm-crossfire-ghost-mode-e-et-engrasado-memoria-ram)
+[Voltar ao inicío da página](#wiki---gda-grupo-de-autoajuda-okd-okaida-imjustagirl-cgm-crossfire-ghost-mode-et-engrasado-memoria-ram-e-occ)
 
 
 
@@ -395,4 +395,4 @@ Com essa junção, [Alla](#) conheceu e introduziu um novo membro ao grupo do Wh
 > Página em construção. <br>
 > Última atualização: 18/07/2025
 
-[Voltar ao inicío da página](#wiki---gda-grupo-de-autoajuda-okd-okaida-imjustagirl-cgm-crossfire-ghost-mode-e-et-engrasado-memoria-ram)
+[Voltar ao inicío da página](#wiki---gda-grupo-de-autoajuda-okd-okaida-imjustagirl-cgm-crossfire-ghost-mode-et-engrasado-memoria-ram-e-occ)
