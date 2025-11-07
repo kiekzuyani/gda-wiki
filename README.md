@@ -179,6 +179,9 @@
 - [Gabriel D.](#)
 (A.K.A ck3, fortniter, spaceglider, Homem Pinpoint, Homem Fortnite)
 
+- [Leonardo B.](#)
+(A.K.A nardo, leo, borba, crow, cr0wn3d, [Kanbushi o foda](#), Aluxsie, Allukem, Iamtheflexi, [expectus patronum](#), static, kiekzuyani, kiek, femboy, [chimangos, chumangos](#), [jon snow](#), diborba, [chokito, acne boy, espinhas](#))
+
 - [P. Guilherme](#)
 (A.K.A GZU, [pedaço de carne do alla](#), [Gzu Tsé-Tsung, Gzúlio Vargas, Gzu Jong Un](#), Gzusky, GZU DO RODO)
 
