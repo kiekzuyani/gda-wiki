@@ -1,6 +1,6 @@
 # Wiki - GDA (Grupo de Autoajuda), Okd (Okaida), ImJustAGirl, CGM (Crossfire Ghost Mode), Et Engrasado Memoria Ram, e OCC
 
-**[GDA](#)**, **[Okd](#)**, **[ImJustAGirl](#)**, **[CGM](#)** e **[Et Engrasado Memoria Ram](#)** são e/ou foram grupos de amigos. **[OCC]** é um clã originado no jogo Crossfire, que hoje em dia estende-se para outros jogos.
+**[GDA](#)**, **[Okd](#)**, **[ImJustAGirl](#)**, **[CGM](#)** e **[Et Engrasado Memoria Ram](#)** são e/ou foram grupos de amigos. **[OCC](#)** é um clã originado no jogo Crossfire, que hoje em dia estende-se para outros jogos.
 
 > [!NOTE]
 > Há links que não redirecionam para nenhuma página, pois a respectiva página dedicada ainda não foi feita (mas será. algum dia. eu acho. (não será)).
