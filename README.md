@@ -5,6 +5,9 @@
 > [!NOTE]
 > Praticamente todos os links não redirecionam para a mesma página, pois a respectiva página dedicada ainda não foi feita (mas será. algum dia. eu acho. (não será)). É recomendado que não clique nos links por enquanto, pois eles ficam redirecionando para o topo do documento.
 
+> [!IMPORTANT]
+> Para visualizar todas as imagens e vídeos relacionados ao grupo, visite: [gda-wiki (Google Drive)](https://drive.google.com/drive/folders/1jXDNB_h93AcFQhwaBZvk8UkjngsRLE1K?usp=drive_link).
+
 ## Conteúdo
 
 - [Membros do GDA](#membros-do-gda)
@@ -392,7 +395,10 @@ Com essa junção, [Alla](#) conheceu e introduziu um novo membro ao grupo do Wh
 [Alla](#) descobriu que [Neitan usava fotos fakes](#), nesse tempo a [Okd](#) já não era mais tão ativa, porém acredita-se que essa descoberta deu início à definitiva ruína, abandono e posterior esquecimento do servidor.
 
 > [!IMPORTANT]
+> Para visualizar todas as imagens e vídeos relacionados ao grupo, visite: [gda-wiki (Google Drive)](https://drive.google.com/drive/folders/1jXDNB_h93AcFQhwaBZvk8UkjngsRLE1K?usp=drive_link).
+
+> [!IMPORTANT]
 > Página em construção. <br>
-> Última atualização: 07/11/2025
+> Última atualização: 17/02/2026
 
 [Voltar ao inicío da página](#wiki---gda-grupo-de-autoajuda-okd-okaida-imjustagirl-cgm-crossfire-ghost-mode-et-engrasado-memoria-ram-e-occ)
